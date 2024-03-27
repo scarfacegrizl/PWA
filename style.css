@@ -1,0 +1,51 @@
+.container {
+    position: relative;
+    width: 3050px; 
+}
+
+.image {
+    display: block;
+    width: 1700px;
+    height: 700px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.text-header {
+    position: absolute;
+    top: 250px;
+    left: 750px;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 70px; 
+    text-align: center;
+    z-index: 1; 
+    margin: 120px;
+
+}
+.container-cappucino {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.kawa-div {
+    width: calc(50% - 10px); 
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.cappuccino-div img {
+    width: 90%;
+    height: auto;
+}
+
+.text-cappuccino {
+    text-align: justify;
+    width: 70%;
+}
+.kawa-div-top {
+    margin-top: 30px;
+    width: calc(50% - 10px); 
+    margin-bottom: 20px;
+}
