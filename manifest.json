@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#41f635",
+    "background_color" : "#80bf28",
+    "display" : "browser",
+    "scope" : "/",
+    "start_url" : "/PWA/",
+    "name" : "Blog o kawie ",
+    "short_name" : "CoffeAPP",
+    "description" : "Cappuccino",
+    "icons" : [
+        {
+            "src" : ".coffee.png",
+            "sizes" : "512x512",
+            "type" : "png"
+        }
+    ]
+    }
